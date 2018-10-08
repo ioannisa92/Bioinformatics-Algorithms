@@ -1,2 +1,2 @@
 # Bioinformatics-Algorithms
-Programs were written during grad level course
+Scripts were written during required grad level course
